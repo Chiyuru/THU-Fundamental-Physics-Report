@@ -5,6 +5,8 @@ by 驰雨Chiyuru
 
 .cls咕了，~~不影响~~先凑合着吧
 
+template.pdf 提供预览
+
 template.tex 正文内容
 
 template.bib 参考文献
