@@ -5,7 +5,7 @@ by 驰雨Chiyuru
 
 .cls咕了，~~不影响~~先凑合着吧
 
-template.pdf 提供预览
+template.pdf 提供预览，建议下载后查看
 
 template.tex 正文内容
 
